@@ -24,7 +24,7 @@ To Install:
 
 Install node.js lts
 
-Clone the repository from GitHub (https://github.com/ajsherrill2/Project-2-Late-Night-Coders.git).
+Clone the repository from GitHub (https://github.com/bjimenez09/Project-2-Late-Night-Coders.git).
 
 Run these command lines in your terminal to install necessary dependencies:
 
@@ -93,4 +93,4 @@ Features you will find in this app include:
 
 ## Questions
 
-If you have any questions about the repo open an issue or contact me directly at adamsherrill2@gmail.com. You can find more of my work at [ajsherrill2](https://github.com/ajsherrill2/).
+If you have any questions about the repo open an issue or contact me directly at bjimenezp09@gmail.com. You can find more of my work at [bjimenez09](https://github.com/bjimenez09/).
